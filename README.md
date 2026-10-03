@@ -1,16 +1,22 @@
-## Hi there 👋
+# Mominah Ashraf
 
-<!--
-**mominahashraf/mominahashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Data Science student passionate about software engineering, data structures, and computer networking.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category | Technologies |
+| --- | --- |
+| Languages | Python, C#, C++ |
+| Data Analysis | NumPy, Pandas, Jupyter Notebooks |
+| Tools & Networking | Git, GitHub, VS Code, Cisco Packet Tracer |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### 1. Developer Profile README
+A professional profile page built using Markdown and version-controlled with Git and GitHub.
+
+## Education
+Bachelor of Science in Computer Science
+
+## Contact
+- Email: mominashraf6@gmail.com
+- GitHub: [@mominahashraf](https://github.com/mominahashraf)
